@@ -7,3 +7,4 @@
 ## Day2
 1)Partition array to k subsets (https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1) </br>
 2)Binary search through iteration (https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&curated[]=1&sortBy=submissions) </br>
+3)Reverse array in groups (https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&curated[]=1&sortBy=submissions) </br>
