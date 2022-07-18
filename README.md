@@ -11,3 +11,7 @@
 
 ## Day3
 1) Structurea (https://nptel.ac.in/courses/106106127) </br>
+
+## Day4
+1)Ceil in BST (https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) </br>
+2)Structures and Pointers (https://nptel.ac.in/courses/106106127) </br>
