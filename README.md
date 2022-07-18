@@ -15,4 +15,4 @@
 ## Day4
 1)Ceil in BST (https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) </br>
 2)Structures and Pointers (https://nptel.ac.in/courses/106106127) </br>
-3)Binary Search Tree (https://github.com/akshat17jain/100DaysOfCode/blob/main/test.cpp) </br>
+3)Binary Search Tree (https://github.com/akshat17jain/100DaysOfCode/blob/main/BST.cpp) </br>
