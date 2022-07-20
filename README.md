@@ -21,3 +21,6 @@
 1)Count Smaller Elements (https://practice.geeksforgeeks.org/problems/count-smaller-elements2214/1) </br>
 2)Convert Array to Zig Zag pattern (https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1?page=1&curated[]=1&sortBy=submissions) </br>
 3)Applied Accelerated Artificial Intelligence on NPTEL (https://www.notion.so/Applied-Accelerated-Artificial-Intelligence-Course-421c70d7fbe045bca074c8e5ee5e4cc6) </br>
+
+## Day6
+1) Introduction to AI accelerators (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=25) </br>
