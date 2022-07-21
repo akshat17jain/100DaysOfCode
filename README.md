@@ -24,3 +24,7 @@
 
 ## Day6
 1) Introduction to AI accelerators (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=25) </br>
+
+## Day7
+1) Introduction to OS and Virtualization (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=26) </br>
+2) Bill Spliter () </br>
