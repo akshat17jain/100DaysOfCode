@@ -27,4 +27,4 @@
 
 ## Day7
 1) Introduction to OS and Virtualization (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=26) </br>
-2) Bill Spliter () </br>
+2) Bill Spliter (https://github.com/akshat17jain/100DaysOfCode/blob/main/bill%20splitter.py) </br>
