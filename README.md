@@ -23,11 +23,15 @@
 3)Applied Accelerated Artificial Intelligence on NPTEL (https://www.notion.so/Applied-Accelerated-Artificial-Intelligence-Course-421c70d7fbe045bca074c8e5ee5e4cc6) </br>
 
 ## Day6
-1) Introduction to AI accelerators (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=25) </br>
+1)Introduction to AI accelerators (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=25) </br>
 
 ## Day7
-1) Introduction to OS and Virtualization (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=26) </br>
-2) Bill Spliter (https://github.com/akshat17jain/100DaysOfCode/blob/main/bill%20splitter.py) </br>
+1)Introduction to OS and Virtualization (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=22&lesson=26) </br>
+2)Bill Spliter (https://github.com/akshat17jain/100DaysOfCode/blob/main/bill%20splitter.py) </br>
 
 ## Day8
-1)maximum sum leaf to root path (https://practice.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) </br>
+1)Maximum sum leaf to root path (https://practice.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) </br>
+
+## Day9
+1)1480. Running sum of 1D array (https://leetcode.com/problems/running-sum-of-1d-array/) </br>
+2)724. Find pivot index (https://leetcode.com/problems/find-pivot-index/) </br>
