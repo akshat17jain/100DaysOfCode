@@ -39,3 +39,4 @@
 ## Day10
 1)Isomorphic strings (https://leetcode.com/problems/isomorphic-strings/submissions/) </br>
 2)Is Subsequence (https://leetcode.com/problems/is-subsequence/submissions/) </br>
+3)Linked List (https://github.com/akshat17jain/100DaysOfCode/blob/main/LinkedList.cpp) </br>
