@@ -31,7 +31,8 @@
 
 ## Day8
 1)Maximum sum leaf to root path (https://practice.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) </br>
-
+2)Isomorphic strings (https://leetcode.com/problems/isomorphic-strings/submissions/) </br>
+3)Is Subsequence (https://leetcode.com/problems/is-subsequence/submissions/) </br>
 ## Day9
 1)1480. Running sum of 1D array (https://leetcode.com/problems/running-sum-of-1d-array/) </br>
 2)724. Find pivot index (https://leetcode.com/problems/find-pivot-index/) </br>
