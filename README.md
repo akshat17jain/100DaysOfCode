@@ -40,3 +40,7 @@
 1)Isomorphic strings (https://leetcode.com/problems/isomorphic-strings/submissions/) </br>
 2)Is Subsequence (https://leetcode.com/problems/is-subsequence/submissions/) </br>
 3)Linked List (https://github.com/akshat17jain/100DaysOfCode/blob/main/LinkedList.cpp) </br>
+
+## Day11
+1)Merge two linked list (https://leetcode.com/problems/merge-two-sorted-lists/submissions/) </br>
+2)Reverse a linked list (https://leetcode.com/problems/reverse-linked-list/submissions/) </br>
