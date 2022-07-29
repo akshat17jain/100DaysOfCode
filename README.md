@@ -44,3 +44,9 @@
 ## Day11
 1)Merge two linked list (https://leetcode.com/problems/merge-two-sorted-lists/submissions/) </br>
 2)Reverse a linked list (https://leetcode.com/problems/reverse-linked-list/submissions/) </br>
+
+## Day12
+1)Middle of a Linked List (https://leetcode.com/problems/middle-of-the-linked-list/submissions/) </br>
+2)Linked List Cycle (https://leetcode.com/problems/linked-list-cycle-ii/submissions/) </br>
+3)Best time to buy and sell using Greedy Method (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) </br>
+4)Longest palindrome (https://leetcode.com/problems/longest-palindrome/submissions/) </br>
