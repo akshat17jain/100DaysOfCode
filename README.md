@@ -50,3 +50,9 @@
 2)Linked List Cycle (https://leetcode.com/problems/linked-list-cycle-ii/submissions/) </br>
 3)Best time to buy and sell using Greedy Method (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) </br>
 4)Longest palindrome (https://leetcode.com/problems/longest-palindrome/submissions/) </br>
+
+## Day13
+1)Binary tree transversal (https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) </br>
+2)N-ary Preorder Transversal (https://leetcode.com/problems/n-ary-tree-preorder-traversal/) </br>
+3)Binary Search (https://leetcode.com/problems/binary-search/submissions/) </br>
+4)First Bad version (https://leetcode.com/problems/first-bad-version/submissions/) </br>
