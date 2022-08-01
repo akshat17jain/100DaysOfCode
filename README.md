@@ -56,3 +56,8 @@
 2)N-ary Preorder Transversal (https://leetcode.com/problems/n-ary-tree-preorder-traversal/) </br>
 3)Binary Search (https://leetcode.com/problems/binary-search/submissions/) </br>
 4)First Bad version (https://leetcode.com/problems/first-bad-version/submissions/) </br>
+
+## Day14
+1)Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-search-tree/submissions/) </br>
+2)Lowest Common Ancestor of a BST (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) </br>
+3)Introduction to Dockers and IDE container (https://onlinecourses.nptel.ac.in/noc22_cs83/unit?unit=28&lesson=29) </br> 
