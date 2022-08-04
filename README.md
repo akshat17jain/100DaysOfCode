@@ -65,3 +65,8 @@
 ## Day15
 1)Flood Fill using DFS (https://leetcode.com/problems/flood-fill/submissions/) </br>
 2)Number of Islands using DFS (https://leetcode.com/problems/number-of-islands/submissions/) </br> 
+
+## Day16
+1)Fibonacci series (https://leetcode.com/problems/fibonacci-number/submissions/) </br>
+2)Climbing Stairs (https://leetcode.com/problems/climbing-stairs/) </br>
+3)Min Cost CLimbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/submissions/) </br>
