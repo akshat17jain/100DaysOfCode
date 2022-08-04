@@ -70,3 +70,4 @@
 1)Fibonacci series (https://leetcode.com/problems/fibonacci-number/submissions/) </br>
 2)Climbing Stairs (https://leetcode.com/problems/climbing-stairs/) </br>
 3)Min Cost CLimbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/submissions/) </br>
+4)Unique Paths (https://leetcode.com/problems/unique-paths/submissions/) </br>
