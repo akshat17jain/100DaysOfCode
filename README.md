@@ -71,3 +71,6 @@
 2)Climbing Stairs (https://leetcode.com/problems/climbing-stairs/) </br>
 3)Min Cost CLimbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/submissions/) </br>
 4)Unique Paths (https://leetcode.com/problems/unique-paths/submissions/) </br>
+
+## Day17
+1)Happy numbers (https://leetcode.com/problems/happy-number/submissions/) </br>
