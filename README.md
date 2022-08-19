@@ -74,3 +74,7 @@
 
 ## Day17
 1)Happy numbers (https://leetcode.com/problems/happy-number/submissions/) </br>
+2)Spiral matrix (https://leetcode.com/problems/spiral-matrix/submissions/) </br>
+
+##Day18
+1)Longest common prefix (https://leetcode.com/problems/longest-common-prefix/submissions/) </br>
